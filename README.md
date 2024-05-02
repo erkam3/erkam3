@@ -1,5 +1,4 @@
 ### Hi there 👋
-- I'm a competitive programmer who just started real programming.
 - I’m a freshman CS student at Bilkent University.
 <!--
 **erkam3/erkam3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
